@@ -1,0 +1,25 @@
+Making Magic (chosen idea probably):
+- user makes 4(?) spells (sets the name)
+- 3(?) types of spells (flame, spark, splash) 
+- each spell is strong, medium, weak (can only have one strong spell, unless gamemode set to overpowered) (picks from a random change for exact power level), spell power determines how many times you are allowed to use each spell in the fights
+- allow for added effects (attack change, defense change, heal, multi-hit)
+- possibly choose to fight swarm of foes or do a bossfight (only do bossfight if I get lazy) after making all your spells
+
+
+strength: parameter varible in constructor
+make logic involving type with getter methods
+figure out how to use enums
+
+dragon class is in u5t4-5
+
+plan:
+1) make spellEffect class
+2) finsh menuing
+3) make spell class
+4) test to make sure all the stuff is made correctly
+5) make enemy class (use dragon class from prevois lab for ideas)
+6) make fighting enemy class
+7) make class that connects maker and fighting class
+8) hopefully finsh
+
+
